@@ -1,3 +1,9 @@
-streamlit
-plotly
-pandas
+pandas>=2.0
+numpy>=1.23
+plotly>=5.22
+ipywidgets>=8.1
+requests>=2.31
+matplotlib>=3.7
+prophet>=1.1.5
+cmdstanpy>=1.1
+pycountry>=22.3.5
