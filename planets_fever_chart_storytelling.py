@@ -397,7 +397,7 @@ drive.mount('/content/drive', force_remount=True)
 try:
     import pycountry
 except ImportError:
-    !pip -q install pycountry
+#    !pip -q install pycountry
     import pycountry
 
 import os, re, pandas as pd, numpy as np, plotly.express as px
