@@ -19,8 +19,8 @@ Original file is located at
 
 # === Cell 1: Setup & Imports ===
 # (Run this once per session)
-!pip -q install plotly>=5.22 ipywidgets>=8.1
-!pip install prophet
+#!pip -q install plotly>=5.22 ipywidgets>=8.1
+#!pip install prophet
 
 import pandas as pd
 import numpy as np
